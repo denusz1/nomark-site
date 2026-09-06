@@ -2,35 +2,20 @@
 
 <urlset
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-    xmlns:xhtml="http://www.w3.org/1999/xhtml"
 >
 
-    <!-- =========================================
-         UKRAINE
-    ========================================== -->
+    <!-- ROOT -->
+
+    <url>
+        <loc>https://nomark-site.pages.dev/</loc>
+    </url>
+
+
+    <!-- UKRAINIAN -->
 
     <url>
         <loc>https://nomark-site.pages.dev/uk/</loc>
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="uk"
-            href="https://nomark-site.pages.dev/uk/"
-        />
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="ru"
-            href="https://nomark-site.pages.dev/ru/"
-        />
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="en"
-            href="https://nomark-site.pages.dev/en/"
-        />
     </url>
-
 
     <url>
         <loc>https://nomark-site.pages.dev/uk/tiktok/</loc>
@@ -49,32 +34,11 @@
     </url>
 
 
-    <!-- =========================================
-         RUSSIAN
-    ========================================== -->
+    <!-- RUSSIAN -->
 
     <url>
         <loc>https://nomark-site.pages.dev/ru/</loc>
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="uk"
-            href="https://nomark-site.pages.dev/uk/"
-        />
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="ru"
-            href="https://nomark-site.pages.dev/ru/"
-        />
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="en"
-            href="https://nomark-site.pages.dev/en/"
-        />
     </url>
-
 
     <url>
         <loc>https://nomark-site.pages.dev/ru/tiktok/</loc>
@@ -93,32 +57,11 @@
     </url>
 
 
-    <!-- =========================================
-         ENGLISH
-    ========================================== -->
+    <!-- ENGLISH -->
 
     <url>
         <loc>https://nomark-site.pages.dev/en/</loc>
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="uk"
-            href="https://nomark-site.pages.dev/uk/"
-        />
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="ru"
-            href="https://nomark-site.pages.dev/ru/"
-        />
-
-        <xhtml:link
-            rel="alternate"
-            hreflang="en"
-            href="https://nomark-site.pages.dev/en/"
-        />
     </url>
-
 
     <url>
         <loc>https://nomark-site.pages.dev/en/tiktok/</loc>
