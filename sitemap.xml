@@ -10,42 +10,42 @@
     ========================================== -->
 
     <url>
-        <loc>https://YOUR-DOMAIN/uk/</loc>
+        <loc>https://nomark-site.pages.dev/uk/</loc>
 
         <xhtml:link
             rel="alternate"
             hreflang="uk"
-            href="https://YOUR-DOMAIN/uk/"
+            href="https://nomark-site.pages.dev/uk/"
         />
 
         <xhtml:link
             rel="alternate"
             hreflang="ru"
-            href="https://YOUR-DOMAIN/ru/"
+            href="https://nomark-site.pages.dev/ru/"
         />
 
         <xhtml:link
             rel="alternate"
             hreflang="en"
-            href="https://YOUR-DOMAIN/en/"
+            href="https://nomark-site.pages.dev/en/"
         />
     </url>
 
 
     <url>
-        <loc>https://YOUR-DOMAIN/uk/tiktok/</loc>
+        <loc>https://nomark-site.pages.dev/uk/tiktok/</loc>
     </url>
 
     <url>
-        <loc>https://YOUR-DOMAIN/uk/youtube-shorts/</loc>
+        <loc>https://nomark-site.pages.dev/uk/youtube-shorts/</loc>
     </url>
 
     <url>
-        <loc>https://YOUR-DOMAIN/uk/pinterest/</loc>
+        <loc>https://nomark-site.pages.dev/uk/pinterest/</loc>
     </url>
 
     <url>
-        <loc>https://YOUR-DOMAIN/uk/youtube-mp3/</loc>
+        <loc>https://nomark-site.pages.dev/uk/youtube-mp3/</loc>
     </url>
 
 
@@ -54,42 +54,42 @@
     ========================================== -->
 
     <url>
-        <loc>https://YOUR-DOMAIN/ru/</loc>
+        <loc>https://nomark-site.pages.dev/ru/</loc>
 
         <xhtml:link
             rel="alternate"
             hreflang="uk"
-            href="https://YOUR-DOMAIN/uk/"
+            href="https://nomark-site.pages.dev/uk/"
         />
 
         <xhtml:link
             rel="alternate"
             hreflang="ru"
-            href="https://YOUR-DOMAIN/ru/"
+            href="https://nomark-site.pages.dev/ru/"
         />
 
         <xhtml:link
             rel="alternate"
             hreflang="en"
-            href="https://YOUR-DOMAIN/en/"
+            href="https://nomark-site.pages.dev/en/"
         />
     </url>
 
 
     <url>
-        <loc>https://YOUR-DOMAIN/ru/tiktok/</loc>
+        <loc>https://nomark-site.pages.dev/ru/tiktok/</loc>
     </url>
 
     <url>
-        <loc>https://YOUR-DOMAIN/ru/youtube-shorts/</loc>
+        <loc>https://nomark-site.pages.dev/ru/youtube-shorts/</loc>
     </url>
 
     <url>
-        <loc>https://YOUR-DOMAIN/ru/pinterest/</loc>
+        <loc>https://nomark-site.pages.dev/ru/pinterest/</loc>
     </url>
 
     <url>
-        <loc>https://YOUR-DOMAIN/ru/youtube-mp3/</loc>
+        <loc>https://nomark-site.pages.dev/ru/youtube-mp3/</loc>
     </url>
 
 
@@ -98,42 +98,42 @@
     ========================================== -->
 
     <url>
-        <loc>https://YOUR-DOMAIN/en/</loc>
+        <loc>https://nomark-site.pages.dev/en/</loc>
 
         <xhtml:link
             rel="alternate"
             hreflang="uk"
-            href="https://YOUR-DOMAIN/uk/"
+            href="https://nomark-site.pages.dev/uk/"
         />
 
         <xhtml:link
             rel="alternate"
             hreflang="ru"
-            href="https://YOUR-DOMAIN/ru/"
+            href="https://nomark-site.pages.dev/ru/"
         />
 
         <xhtml:link
             rel="alternate"
             hreflang="en"
-            href="https://YOUR-DOMAIN/en/"
+            href="https://nomark-site.pages.dev/en/"
         />
     </url>
 
 
     <url>
-        <loc>https://YOUR-DOMAIN/en/tiktok/</loc>
+        <loc>https://nomark-site.pages.dev/en/tiktok/</loc>
     </url>
 
     <url>
-        <loc>https://YOUR-DOMAIN/en/youtube-shorts/</loc>
+        <loc>https://nomark-site.pages.dev/en/youtube-shorts/</loc>
     </url>
 
     <url>
-        <loc>https://YOUR-DOMAIN/en/pinterest/</loc>
+        <loc>https://nomark-site.pages.dev/en/pinterest/</loc>
     </url>
 
     <url>
-        <loc>https://YOUR-DOMAIN/en/youtube-mp3/</loc>
+        <loc>https://nomark-site.pages.dev/en/youtube-mp3/</loc>
     </url>
 
 </urlset>
