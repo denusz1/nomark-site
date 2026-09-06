@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+>
+
+    <!-- =========================================
+         UKRAINE
+    ========================================== -->
+
+    <url>
+        <loc>https://YOUR-DOMAIN/uk/</loc>
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="uk"
+            href="https://YOUR-DOMAIN/uk/"
+        />
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="ru"
+            href="https://YOUR-DOMAIN/ru/"
+        />
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="en"
+            href="https://YOUR-DOMAIN/en/"
+        />
+    </url>
+
+
+    <url>
+        <loc>https://YOUR-DOMAIN/uk/tiktok/</loc>
+    </url>
+
+    <url>
+        <loc>https://YOUR-DOMAIN/uk/youtube-shorts/</loc>
+    </url>
+
+    <url>
+        <loc>https://YOUR-DOMAIN/uk/pinterest/</loc>
+    </url>
+
+    <url>
+        <loc>https://YOUR-DOMAIN/uk/youtube-mp3/</loc>
+    </url>
+
+
+    <!-- =========================================
+         RUSSIAN
+    ========================================== -->
+
+    <url>
+        <loc>https://YOUR-DOMAIN/ru/</loc>
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="uk"
+            href="https://YOUR-DOMAIN/uk/"
+        />
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="ru"
+            href="https://YOUR-DOMAIN/ru/"
+        />
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="en"
+            href="https://YOUR-DOMAIN/en/"
+        />
+    </url>
+
+
+    <url>
+        <loc>https://YOUR-DOMAIN/ru/tiktok/</loc>
+    </url>
+
+    <url>
+        <loc>https://YOUR-DOMAIN/ru/youtube-shorts/</loc>
+    </url>
+
+    <url>
+        <loc>https://YOUR-DOMAIN/ru/pinterest/</loc>
+    </url>
+
+    <url>
+        <loc>https://YOUR-DOMAIN/ru/youtube-mp3/</loc>
+    </url>
+
+
+    <!-- =========================================
+         ENGLISH
+    ========================================== -->
+
+    <url>
+        <loc>https://YOUR-DOMAIN/en/</loc>
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="uk"
+            href="https://YOUR-DOMAIN/uk/"
+        />
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="ru"
+            href="https://YOUR-DOMAIN/ru/"
+        />
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="en"
+            href="https://YOUR-DOMAIN/en/"
+        />
+    </url>
+
+
+    <url>
+        <loc>https://YOUR-DOMAIN/en/tiktok/</loc>
+    </url>
+
+    <url>
+        <loc>https://YOUR-DOMAIN/en/youtube-shorts/</loc>
+    </url>
+
+    <url>
+        <loc>https://YOUR-DOMAIN/en/pinterest/</loc>
+    </url>
+
+    <url>
+        <loc>https://YOUR-DOMAIN/en/youtube-mp3/</loc>
+    </url>
+
+</urlset>
