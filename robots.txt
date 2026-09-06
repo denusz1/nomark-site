@@ -2,3 +2,5 @@ User-agent: *
 Allow: /
 
 Sitemap: https://nomark-site.pages.dev/sitemap.xml
+
+# NoMark
